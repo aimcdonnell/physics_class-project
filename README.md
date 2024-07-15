@@ -7,3 +7,5 @@ A Codecademy Python 3 project using Python functions. In this project, Python fu
 - Visual Studio Code
 - Python
 
+# References
+https://www.codecademy.com/projects/practice/physics-class
